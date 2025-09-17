@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# saikyou_fixed.py
 import time, re, sys
 from smbus2 import SMBus, i2c_msg
 import pynmea2
